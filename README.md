@@ -1,4 +1,4 @@
 # hellow-world
-## test repository
+test repository
 -------------------------
 This repository is about recording Git use.  
